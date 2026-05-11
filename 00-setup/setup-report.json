@@ -20,6 +20,16 @@
     4318,
     8888
   ],
-  "bound_ports": [],
-  "all_ports_free": true
+  "bound_ports": [
+    8000,
+    9090,
+    9093,
+    3000,
+    3100,
+    16686,
+    4317,
+    4318,
+    8888
+  ],
+  "all_ports_free": false
 }
